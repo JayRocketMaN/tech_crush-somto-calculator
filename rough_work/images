@@ -1,2 +1,1 @@
-c:\Users\DELL\Pictures\ch7.png
-
+const imageUrl = 'c:\\Users\\DELL\\Pictures\\ch7.png';
